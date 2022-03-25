@@ -34,7 +34,7 @@
 <!--   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> -->
 </p>
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 💬 Programming Languages: 
@@ -43,7 +43,7 @@ TypeScript               06 hrs 18 mins      ██████░░░░░�
 Other                    68 hrs 38 mins      ██████████████████████░░░   87.27% 
 
 ```
-🙌 A day for life
+🙌 **A day for life**
 
 ```text
 🌞 Morning    18 commits     █████░░░░░░░░░░░░░░░░░░░░   19.53% 
