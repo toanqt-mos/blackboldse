@@ -1,8 +1,5 @@
 **Hey there** 👋
 - 🌱 I’m currently learning Frontend.
-
-**Languages and tools:**
-
 <p>Welcome to my page! </br> I'm BlackBold, Frontend developer</p>
 <h3>Things I code with</h3>
 <p>
