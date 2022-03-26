@@ -50,3 +50,8 @@ Other         68 hrs 38 mins      ███████████████�
 🌑 DarkNight  36 commits     █████░░░░░░░░░░░░░░░░░░░░   21.67%
 
 ```
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<!-- <a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/blackbold/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blakcboldse" height="30" width="40" /></a>
+<a href="https://www.instagram.com/blackboldse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blakcboldse" height="30" width="40" /></a>
