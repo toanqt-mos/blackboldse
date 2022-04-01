@@ -1,12 +1,11 @@
-**Hey there** 👋
+### Hey there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+Welcome to my page.
 
-<p>Welcome to my page! </br> I'm BlackBold, Frontend developer.</p>
-- 🌱  I’m currently learning Javascript, React,
-- 🔭  I’m currently working on something cool 😉
-- 💬  Ask me about anything related to Javascript/Typescript/React/
-- 📫  How to reach me: @blackboldse
-- ⚡  Fun fact: I ❤️ 🐶s and Gaming (AOV: •MNMNMN•)
-
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning JavaScript, React.
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 📫 &nbsp;How to reach me: @blackboldse
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Gaming (AOV: •MNMNMN•)
 
 <h3>Things I code with</h3>
 <p>
