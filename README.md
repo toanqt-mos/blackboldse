@@ -44,6 +44,12 @@ macOS               ████████████████████
 windows             ██░░░░░░░░░░░░░░░░░░░░░░░░░   07.27% 
 
 ```
+🏅 **Certification**
+```
+**Responsive Web Design**
+Developer Certification, representing approximately 300 hours of coursework.
+[freecodecamp](https://www.freecodecamp.org/certification/blackbold/responsive-web-design)
+```
 🙌 **A day for life**
 
 ```text
