@@ -1,5 +1,5 @@
-### Hey there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-Welcome to my page.
+### Hey there <a href="https://github.com/blackboldse/portfolio-personal-web"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+I'm BlackBold. Welcome to my page.
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning JavaScript, React.
