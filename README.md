@@ -3,7 +3,6 @@ I'm BlackBold. Welcome to my page.
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning JavaScript, React.
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
 - 📫 &nbsp;How to reach me: @blackboldse
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Gaming (AOV: •MNMNMN•)
 
