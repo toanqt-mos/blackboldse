@@ -22,8 +22,7 @@ I'm BlackBold. Welcome to my page.
 
 ```text
 💬 Programming Languages: 
-JavaScript    01 hrs 23 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   10.35% 
-TypeScript    06 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   28.26% 
+JavaScript    06 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   28.26% 
 Other         68 hrs 38 mins      ██████████████████████░░░   87.27% 
 
 💻 Operating System:
@@ -31,7 +30,7 @@ macOS               ████████████████████
 windows             ██░░░░░░░░░░░░░░░░░░░░░░░░░   07.27% 
 
 ```
-🏅 **Certification**
+🏅 **Online Certification Academy**
 - [**Responsive Web Design**](https://www.freecodecamp.org/certification/blackbold/responsive-web-design)
 <br>Developer Certification, representing approximately 300 hours of coursework at freeCodeCamp.org
 
