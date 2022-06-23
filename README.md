@@ -19,7 +19,7 @@ I'm BlackBold. Welcome to my page.
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0D73B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-📊 **My project** 
+🧰 **My project** 
 
 ```text
 💬 Programming Languages: 
