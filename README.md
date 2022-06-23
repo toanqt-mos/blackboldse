@@ -2,8 +2,8 @@
 <!-- <a href="https://github.com/blackboldse/portfolio-personal-web"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> -->
 I'm BlackBold. Welcome to my page.
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning JavaScript, React.
+<!-- - 🔭 &nbsp;I’m currently working on something cool :wink: -->
+<!-- - 🌱 &nbsp;I’m currently learning JavaScript, React. -->
 - 📫 &nbsp;How to reach me: @blackboldse
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Gaming (AOV: •MNMNMN•)
 
@@ -19,43 +19,21 @@ I'm BlackBold. Welcome to my page.
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0D73B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-📊 **This week I spent my time on** 
+📊 **My project** 
 
 ```text
 💬 Programming Languages: 
-JavaScript    06 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   28.26% 
-Other         68 hrs 38 mins      ██████████████████████░░░   87.27% 
+JavaScript
 
 💻 Operating System:
 macOS               █████████████████████████░░   93.27% 
 windows             ██░░░░░░░░░░░░░░░░░░░░░░░░░   07.27% 
 
 ```
-🏅 **Online Certification Academy**
+🏅 **Academy background**
 - [**Responsive Web Design**](https://www.freecodecamp.org/certification/blackbold/responsive-web-design)
 <br>Developer Certification, representing approximately 300 hours of coursework at freeCodeCamp.org
 
-🙌 **A day for life**
-
-```text
-🌞 Morning    18 commits     █████░░░░░░░░░░░░░░░░░░░░   19.53% 
-🌆 Daytime    68 commits     █████████░░░░░░░░░░░░░░░░   38.24% 
-🌃 Evening    28 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
-🌙 Night      26 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.67%
-🌑 DarkNight  36 commits     █████░░░░░░░░░░░░░░░░░░░░   21.67%
-
-```
-<!-- 📅 **I'm Most Productive on Thursday**
-
-```text
-Monday       118 commits    █████░░░░░░░░░░░░░░░░░░░░   18.7% 
-Tuesday      84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.21% 
-Wednesday    139 commits    ████░░░░░░░░░░░░░░░░░░░░░   21.71% 
-Thursday     96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
-Friday       101 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
-Saturday     47 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
-Sunday       51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.02%
-``` -->
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
