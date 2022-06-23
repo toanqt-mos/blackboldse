@@ -20,12 +20,12 @@ I'm BlackBold. Welcome to my page.
 </p>
 
 🧰 **My project** 
-```text
+
 - [**Blackband Page**](https://blackboldse.github.io/blackband-page/)
 - [**Zulu Landing Page**](https://blackboldse.github.io/LandingPage/)
 - [**Portfolio Personal**](https://blackboldse.github.io/portfolio-personal-web/)
 
-
+```text
 ```
 
 🏅 **Academy background**
