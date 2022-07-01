@@ -34,6 +34,7 @@ I'm BlackBold. Welcome to my page.
 - [**Blackband Page**](https://blackboldse.github.io/blackband-page/)
 - [**Zulu Landing Page**](https://blackboldse.github.io/LandingPage/)
 - [**Portfolio Personal**](https://blackboldse.github.io/portfolio-personal-web/)
+- [**The Clone Shopee shop**](updating)
 
 ```text
 ```
