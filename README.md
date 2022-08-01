@@ -1,5 +1,4 @@
-### Hey there 
-<a href="https://github.com/blackboldse/portfolio-personal-web"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"></a>
+### Hey there <a href="https://github.com/blackboldse/portfolio-personal-web"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></a>
 I'm BlackBold. Welcome to my page.
 
 <!-- - 🔭 &nbsp;I’m currently working on something cool :wink: -->
@@ -35,9 +34,6 @@ I'm BlackBold. Welcome to my page.
 - [**Zulu Landing Page**](https://blackboldse.github.io/LandingPage/)
 - [**Portfolio Personal**](https://blackboldse.github.io/portfolio-personal-web/)
 - [**The Clone Shopee shop**](updating)
-
-```text
-```
 
 🏅 **Academy background**
 - [**Responsive Web Design**](https://www.freecodecamp.org/certification/blackbold/responsive-web-design)
