@@ -23,22 +23,7 @@ I'm BlackBold. Welcome to my page.
   <img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white" />
   <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-
-  
- 
 </p>
-
-🧰 **My project** 
-
-- [**Blackband Page**](https://blackboldse.github.io/blackband-page/)
-- [**Zulu Landing Page**](https://blackboldse.github.io/LandingPage/)
-- [**Portfolio Personal**](https://blackboldse.github.io/portfolio-personal-web/)
-- [**The Clone Shopee shop**](updating)
-
-🏅 **Academy background**
-- [**Responsive Web Design**](https://www.freecodecamp.org/certification/blackbold/responsive-web-design)
-<br>Developer Certification, representing approximately 300 hours of coursework at freeCodeCamp.org
-
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
