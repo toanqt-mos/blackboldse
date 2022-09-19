@@ -17,12 +17,10 @@ I'm BlackBold. Welcome to my page.
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <!--   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> -->
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="c" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white" />
   <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="linux" src="https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
 🔗 &nbsp;**Connect with me**
