@@ -23,6 +23,10 @@ Tôi là TOÀN TRẦN. Xin chào.
   <img alt="motion" src="https://www.nicepng.com/png/detail/377-3772974_motion-apple-motion-5.png" height="20" width="20" />
   <img alt="motion" src="https://img.shields.io/badge/-Motion-purple" />
   
+  <img alt="capture-one" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CAPTURE_ONE_LOGO.svg/1200px-CAPTURE_ONE_LOGO.svg.png" height="20" width="20" />
+  <img alt="capture-one" src="https://img.shields.io/badge/-Capture%20One-purple" />
+  
+  
   <img alt="lightroom" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/2101px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" height="20" width="20" />
   <img alt="lightroom" src="https://img.shields.io/badge/-Lightroom-blue" />
   
