@@ -17,7 +17,7 @@ Tôi là TOÀN TRẦN. Xin chào.
   <img alt="adobe-photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" height="20" width="20" />
   <img alt="photoshop" src="https://img.shields.io/badge/-Photoshop-blue" />
   
-  <img alt="wondershare-filmora" src="https://www.pinpng.com/pngs/m/190-1900945_filmora-video-editor-4-wondershare-filmora-logo-png.png" height="20" width="20" />
+  <img alt="wondershare-filmora" src="https://images-eds-ssl.xboxlive.com/image?url=Q_rwcVSTCIytJ0KOzcjWTYl.n38D8jlKWXJx7NRJmQKBAEDCgtTAQ0JS02UoaiwRYCB5C_SHdKWod8z_37047UmnnBkJRC2EJI2cYU4jbbl3j5heDTbrR1NGXuoMlqEo8o.NCLCoopg4f7AyiaL8xQ--&format=source" height="20" width="20" />
   <img alt="wondershare-filma" src="https://img.shields.io/badge/-Wondershare%20Filmora-green" />
   
   <img alt="motion" src="https://www.nicepng.com/png/detail/377-3772974_motion-apple-motion-5.png" height="20" width="20" />
