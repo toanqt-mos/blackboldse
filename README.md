@@ -17,11 +17,11 @@ Tôi là TOÀN TRẦN. Xin chào.
   <img alt="adobe-photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" height="20" width="20" />
   <img alt="photoshop" src="https://img.shields.io/badge/-Photoshop-blue" />
   
-  <img alt="final-cut-pro" src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" height="20" width="20" />
-  <img alt="final-cut-pro" src="https://img.shields.io/badge/-Final%20Cut%20Pro-blue" />
+  <img alt="wondershare-filmora" src="https://www.pinpng.com/pngs/m/190-1900945_filmora-video-editor-4-wondershare-filmora-logo-png.png" height="20" width="20" />
+  <img alt="wondershare-filma" src="https://img.shields.io/badge/-Wondershare%20Filmora-green" />
   
   <img alt="motion" src="https://www.nicepng.com/png/detail/377-3772974_motion-apple-motion-5.png" height="20" width="20" />
-  <img alt="motion" src="https://img.shields.io/badge/-Motion-green" />
+  <img alt="motion" src="https://img.shields.io/badge/-Motion-purple" />
   
   <img alt="final-cut-pro" src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" height="20" width="20" />
   <img alt="final-cut-pro" src="https://img.shields.io/badge/-Final%20Cut%20Pro-blue" />
