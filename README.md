@@ -1,5 +1,5 @@
 ### Hey there <a href="https://github.com/blackboldse/portfolio-personal-web"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></a>
-I'm BlackBold. Welcome to my page.
+Tôi là TOÀN TRẦN. Xin chào.
 
 <!-- - 🔭 &nbsp;I’m currently working on something cool :wink: -->
 <!-- - 🌱 &nbsp;I’m currently learning JavaScript, React. -->
