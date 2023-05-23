@@ -20,8 +20,8 @@ Tôi là TOÀN TRẦN. Xin chào.
   <img alt="final-cut-pro" src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" height="20" width="20" />
   <img alt="final-cut-pro" src="https://img.shields.io/badge/-Final%20Cut%20Pro-blue" />
   
-  <img alt="final-cut-pro" src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" height="20" width="20" />
-  <img alt="final-cut-pro" src="https://img.shields.io/badge/-Final%20Cut%20Pro-blue" />
+  <img alt="motion" src="https://www.nicepng.com/png/detail/377-3772974_motion-apple-motion-5.png" height="20" width="20" />
+  <img alt="motion" src="https://img.shields.io/badge/-Motion-green" />
   
   <img alt="final-cut-pro" src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" height="20" width="20" />
   <img alt="final-cut-pro" src="https://img.shields.io/badge/-Final%20Cut%20Pro-blue" />
