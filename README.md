@@ -9,6 +9,8 @@ I'm BlackBold. Welcome to my page.
 <h3>Things I code with</h3>
 <p>
   <img alt="final-cut-pro" src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" height="40" width="40" />
+  <img alt="final-cut-pro" src="https://img.shields.io/badge/-Final%20Cut%20Pro-blue" />
+  
 </p>
 
 🔗 &nbsp;**Connect with me**
