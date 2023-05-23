@@ -14,8 +14,8 @@ I'm BlackBold. Welcome to my page.
   <img alt="final-cut-pro" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" height="20" width="20" />
   <img alt="final-cut-pro" src="https://img.shields.io/badge/-Illustrator-orange" />
   
-  <img alt="final-cut-pro" src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" height="20" width="20" />
-  <img alt="final-cut-pro" src="https://img.shields.io/badge/-Final%20Cut%20Pro-blue" />
+  <img alt="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" height="20" width="20" />
+  <img alt="final-cut-pro" src="https://img.shields.io/badge/-Photoshop-blue" />
   
   <img alt="final-cut-pro" src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" height="20" width="20" />
   <img alt="final-cut-pro" src="https://img.shields.io/badge/-Final%20Cut%20Pro-blue" />
