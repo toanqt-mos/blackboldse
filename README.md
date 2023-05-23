@@ -21,7 +21,7 @@ Tôi là TOÀN TRẦN. Xin chào.
   <img alt="wondershare-filma" src="https://img.shields.io/badge/-Wondershare%20Filmora-green" />
   
   <img alt="motion" src="https://www.nicepng.com/png/detail/377-3772974_motion-apple-motion-5.png" height="20" width="20" />
-  <img alt="motion" src="https://img.shields.io/badge/-Motion-purple" />
+  <img alt="motion" src="https://img.shields.io/badge/-Motion-orange" />
   
   <img alt="capture-one" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CAPTURE_ONE_LOGO.svg/1200px-CAPTURE_ONE_LOGO.svg.png" height="20" width="20" />
   <img alt="capture-one" src="https://img.shields.io/badge/-Capture%20One-purple" />
