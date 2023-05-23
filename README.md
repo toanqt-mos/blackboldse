@@ -6,7 +6,7 @@ Tôi là TOÀN TRẦN. Xin chào.
 - 📫 &nbsp;How to reach me: @blackboldse
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and something...
 
-<h3>Things I code with</h3>
+<h3>Things I edit with</h3>
 <p>
   <img alt="final-cut-pro" src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" height="20" width="20" border-radius="2px" />
   <img alt="final-cut-pro" src="https://img.shields.io/badge/-Final%20Cut%20Pro-blue" />
