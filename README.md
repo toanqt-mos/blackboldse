@@ -1,9 +1,5 @@
 ### Hey there <a href="https://github.com/blackboldse/portfolio-personal-web"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></a>
-Tôi là TOÀN TRẦN. Xin chào.
-
-<!-- - 🔭 &nbsp;I’m currently working on something cool :wink: -->
-<!-- - 🌱 &nbsp;I’m currently learning JavaScript, React. -->
-- 📫 &nbsp;How to reach me: @blackboldse
+TRAN QUOC TOAN
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and something...
 
 <h3>Things I edit with</h3>
@@ -16,19 +12,12 @@ Tôi là TOÀN TRẦN. Xin chào.
   
   <img alt="adobe-photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" height="20" width="20" />
   <img alt="photoshop" src="https://img.shields.io/badge/-Photoshop-blue" />
-  
-  <img alt="wondershare-filmora" src="https://images-eds-ssl.xboxlive.com/image?url=Q_rwcVSTCIytJ0KOzcjWTYl.n38D8jlKWXJx7NRJmQKBAEDCgtTAQ0JS02UoaiwRYCB5C_SHdKWod8z_37047UmnnBkJRC2EJI2cYU4jbbl3j5heDTbrR1NGXuoMlqEo8o.NCLCoopg4f7AyiaL8xQ--&format=source" height="20" width="20" />
-  <img alt="wondershare-filma" src="https://img.shields.io/badge/-Wondershare%20Filmora-green" />
-  
+
   <img alt="motion" src="https://www.nicepng.com/png/detail/377-3772974_motion-apple-motion-5.png" height="20" width="20" />
   <img alt="motion" src="https://img.shields.io/badge/-Motion-orange" />
   
   <img alt="capture-one" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CAPTURE_ONE_LOGO.svg/1200px-CAPTURE_ONE_LOGO.svg.png" height="20" width="20" />
   <img alt="capture-one" src="https://img.shields.io/badge/-Capture%20One-purple" />
-  
-  
-  <img alt="lightroom" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/2101px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" height="20" width="20" />
-  <img alt="lightroom" src="https://img.shields.io/badge/-Lightroom-blue" />
   
 </p>
 
